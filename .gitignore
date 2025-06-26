@@ -1,0 +1,21 @@
+# MATLAB 相關檔案
+*.asv
+*.autosave
+
+# 結果檔案
+*.mat
+*.fig
+
+# 暫存檔案
+*~
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# IDE 檔案
+.vscode/
+*.sublime-*
+
+# 日誌檔案
+*.log
